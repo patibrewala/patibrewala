@@ -21,7 +21,7 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/pankitatibrewala/)!
 
 
 ### Hobbies and interests:
-1. I love travelling and photography (would love to visit more places soon). [A picture](Nature.jpg) I took while hiking
+1. I love travelling and photography (would love to visit more places soon). [A picture](tree.png) I took while hiking
 2. Very interested in human computer interaction and UI/UX design
 3. Like fashion and want to learn more about its history
 4. I want to learn more languages
