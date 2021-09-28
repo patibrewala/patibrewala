@@ -9,8 +9,7 @@ Checkout my [interest and hobbies](#hobbies-and-interests).
 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/pankitatibrewala/)!
 
-![Me](me_resize.png)
-
+<img src="Me.JPG" alt="me" width="300"/>
 
 ### About me:
 - international student from India
